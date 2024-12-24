@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chatbots.**
 
-- 🌱 I’m currently learning **Artificial Intelligence (AI) & Machine Learning.**
+- 🌱 I’m also learning **Artificial Intelligence (AI) & Machine Learning.**
 
 - 📫 How to reach me **mobashshir12@gmail.com**
 
