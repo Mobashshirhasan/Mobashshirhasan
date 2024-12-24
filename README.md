@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobashshirhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mobashshirhasan " /> </p>
 
-- 🔭 I’m currently working on **Chatbots**
+- 🔭 I’m currently working on **Chatbots.**
 
-- 🌱 I’m currently learning **Artificial Intelligence (AI) & Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence (AI) & Machine Learning.**
 
 - 📫 How to reach me **mobashshir12@gmail.com**
 
