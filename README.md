@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobashshirhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mobashshirhasan " /> </p>
 
-- 🔭 I’m currently working on **Chatbots** & **RAG Implementation**
+- 🔭 I’m currently working on **Chatbots** , **RAG Implementation** , **AI Agents** , **Multi-Agents** .
 
 - 🌱 I’m also learning **Artificial Intelligence (AI) & Machine Learning.**
 
