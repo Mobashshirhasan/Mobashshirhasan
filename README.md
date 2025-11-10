@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Chatbots** , **RAG Implementation** , **AI Agents** , **Multi-Agents**  **AI Tools**.
 
-- 🌱 I’m also learning **Artificial Intelligence (AI) & Machine Learning.**
-
 - 📫 How to reach me **mobashshir12@gmail.com**
 
 <h3 align="left"> Connect with me : </h3>
