@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Mobashshir Hasan! Great to see you here! 👋</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A Passionate Python developer from India</h3>
 
 <img align="right" alt="coding" width="500" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif">
 
